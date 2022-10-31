@@ -1,8 +1,8 @@
-Table of contents
+# Table of contents
 
-[Overview]
-[Screenshot]
-[Built with]
+- [Overview]
+- [The challenge]
+- [Screenshot]
 
 # Overview
 A website of the Functional Training Studio “Personal Fisio”.
