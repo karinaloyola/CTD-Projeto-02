@@ -1,0 +1,18 @@
+body {
+    font-family: 'PT Sans Caption', "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    font-size: 3vh;
+}
+
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo {
+    text-decoration: none;
+    color: white;
+    font-size: 5vh;
+    font-weight: bold;
+}
