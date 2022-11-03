@@ -28,5 +28,16 @@ body {
     justify-content: space-between;
     height: 100vh;
     padding: 1em;
+    box-sizing: border-box;
+    color: white;
+    background: url("/assets/img/treinoarlivre.jpg") center center no-repeat;
+    background-size: cover;
+}
 
+.treino-title {
+    max-width: 16em;
+    margin: 0;
+    font-size: 12vh;
+    font-weight: bold;
+    line-height: .9;
 }
