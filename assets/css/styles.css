@@ -16,3 +16,17 @@ body {
     font-size: 5vh;
     font-weight: bold;
 }
+
+#menu-icon {
+    font-family: Geneva, sans-serif;
+    font-size: 6vh;
+}
+
+.treino {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    padding: 1em;
+
+}
