@@ -41,3 +41,32 @@ body {
     font-weight: bold;
     line-height: .9;
 }
+
+@media only screen and (min-width: 32em) {
+    .treino-title {
+        font-size: 16vh;
+    }
+}
+
+.treino-footer {
+    display: flex;
+    margin-bottom: 1em;
+}
+
+.button {
+    padding: .5em .67em;
+    color: white;
+    text-decoration: none;
+    border: .1em solid white;
+}
+
+.button-primary {
+    color: black;
+    background-color: white;
+}
+
+article {
+    max-width: 36em;
+    margin: 0 auto;
+    padding: 1em;
+}
