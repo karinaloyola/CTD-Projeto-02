@@ -65,8 +65,10 @@ body {
     background-color: white;
 }
 
-article {
-    max-width: 36em;
+.blog {
+    max-width: 20em;
     margin: 0 auto;
     padding: 1em;
+    background-color: antiquewhite;
+    text-align: center;
 }
