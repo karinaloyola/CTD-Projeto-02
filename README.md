@@ -1,5 +1,5 @@
 # README.md
-- Desenvolvimento de site.
+- Desenvolvimento de site visando desenvolver minhas habilidades em HTML, CSS, e JS.
 
 ## Ferramentas
 - Visual Studio Code
